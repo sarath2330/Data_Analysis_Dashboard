@@ -1,12 +1,12 @@
-Exciting Internship Project at Learnbay
+#Exciting Internship Project at Learnbay
 
 I'm thrilled to share that I've just completed my 1st task as an internship at Learnbay , and it has been an incredible learning experience! 🎉
 
-📊 Project Name :-----
+##Project Name :-----
 
 Customer Segmentation Analysis
 
-Objective:-----
+##Objective:-----
 
 The aim of this data analytics project is to perform customer segmentation analysis for an e-commerce company.
 
@@ -14,7 +14,7 @@ By analyzing customer behavior and purchase patterns, the goal is to group custo
 
 This segmentation can inform targeted marketing strategies, improve customer satisfaction, and enhance overall business strategies.
 
-🛠️ Tools Used:-----
+##🛠️ Tools Used:-----
 
 Power BI , Excel
 
