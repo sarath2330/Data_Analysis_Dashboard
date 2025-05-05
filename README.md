@@ -6,10 +6,6 @@ I'm thrilled to share that I've just completed my task as an internship at Learn
 
 Customer Segmentation Analysis
 
-📊 Live Project Link :-----
-
-https://lnkd.in/dMuNCUhz
-
 🔍 Objective:-----
 
 The aim of this data analytics project is to perform customer segmentation analysis for an e-commerce company.
