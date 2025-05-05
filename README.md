@@ -1,6 +1,6 @@
-🚀 Exciting Internship Project at Oasis Infobyte 🚀
+🚀 Exciting Internship Project at Learnbay 🚀
 
-I'm thrilled to share that I've just completed my 2nd task as an internship at Oasis Infobyte , and it has been an incredible learning experience! 🎉
+I'm thrilled to share that I've just completed my task as an internship at Learnbay and it has been an incredible learning experience! 🎉
 
 📊 Project Name :-----
 
@@ -9,14 +9,6 @@ Customer Segmentation Analysis
 📊 Live Project Link :-----
 
 https://lnkd.in/dMuNCUhz
-
-📊 Project Video Link :-----
-
-https://www.linkedin.com/posts/aryan98875_oasisinfobyte-project2-customersegmentationanalysis-activity-7227575946545922048-yhJF?utm_source=share&utm_medium=member_desktop
-
-📊 Dataset Link :-----
-
-https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data/data
 
 🔍 Objective:-----
 
